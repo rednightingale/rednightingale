@@ -7,14 +7,18 @@
 <div align="center" style="display: flex; justify-content: space-between">
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b8919e7a-2bb5-40c7-af15-8218d853bd92/d4njzit-127dd5cb-e118-44fb-94a7-9741c7bc26c4.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I4OTE5ZTdhLTJiYjUtNDBjNy1hZjE1LTgyMThkODUzYmQ5MlwvZDRuanppdC0xMjdkZDVjYi1lMTE4LTQ0ZmItOTRhNy05NzQxYzdiYzI2YzQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9PB2ZvywGceIX6yQcZbjTegDzQzbt5tvDcalwIFDq_w" height="150" style="border-radius: 50%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=rednightingale&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=rednightingale&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rednightingale&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<br clear="both">
+###
 
 <p>Hellllo ＼(⚈ω⚈)／ I am a French developer</p>
+
+#### PROJECTS ⚒️
+
+<a href="https://github.com/rednightingale/pp-react-atla-wiki"><b>WIKI: Avatar the last airbender</b></a>
 
 #### LANGUAGES
 
@@ -24,15 +28,11 @@
 
 <h5 style="align-self: center">MY FAVORITE ONE SO FAR</h5>
 
-<img src="https://media.tenor.com/xZkzyWQwZhgAAAAC/in-love.gif" height="100" style="align-self: center" />
+<img src="https://media.giphy.com/media/3HEzHIxZjKduE/giphy.gif" height="100" style="align-self: center" />
 
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="35" alt="react logo" style="align-self: center" />
 <img src="https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=%2361DAFB" height="35" alt="redux logo" style="align-self: center" />
 </div>
-
-<!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=%2361DAFB)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" alt="react logo" style="align-self: center" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="70" alt="redux logo" style="align-self: center" /> -->
 
 ##### DATABASES
 
@@ -57,10 +57,6 @@
 #### LANGUAGES I'D LIKE TO LEARN
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
-#### PROJECTS ⚒️
-
-<a href="https://github.com/rednightingale/pp-react-atla-wiki"><b>WIKI: Avatar the last airbender</b></a>
 
 #### WHERE TO FIND ME?
 
